@@ -1,3 +1,3 @@
-# dexkit
+# Dexkit
 
-test
+Clash of Clans Lite Version
